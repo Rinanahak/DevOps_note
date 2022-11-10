@@ -11,38 +11,51 @@ Enter
 
 
 
-1.SDLC  ---> Software development life cycle. it is the process of testing a software application. 
-::
+1.SDLC  ---> Software development life cycle.  
 
 
 1.SDLC-Software Development Life Cycle-1)Planning And Requirement Analysis.2)Design 3) Implement 4) Test 5)Deploy 6)Maintenance
+
 2.waterfall-The waterfall Model illustrates the software development process in a linear sequential flow.
-Limitations of the Waterfall Life Cycle Model:High amount of Risk and Uncertainty .
-Agile: Agile methodologies enable organizations to deliver value to customers faster and with fewer complications by systematically managing projects and developing software in an iterative fashion.
+
+Limitations of the Waterfall Life Cycle Model:
+------------------------------------------------------------------------------------------------
+
+High amount of Risk and Uncertainty .
+
+Agile: 
+------------------------------------------------
+Agile methodologies enable organizations to deliver value to customers faster and with fewer complications by systematically managing projects and developing software in an iterative fashion.
 Differnt Between Waterfall and Agile:Waterfall model is linear process but Agile medhodologies designing and testing part is continuesing happening 
 DevOps:is a basically a software development strategy which the  bridge between Dev side and Ops side of the company.its not a technology it ia s methodology .
-DevOpS Stages:A) Version Control :Maintain different version of the code-Suppose Emp 1 made a code and Empl 2 also made a code how will know at what time and whose made this in this case if we use version control tools like git will get this thinks.
+DevOpS Stages:
+---------------------------------------------------------------------
+
+A) Version Control :Maintain different version of the code-Suppose Emp 1 made a code and Empl 2 also made a code how will know at what time and whose made this in this case if we use version control tools like git will get this thinks.
 B) Continues Integaration:Building your application Continuesly .that means developer made a change continuesly ,Continues Integaration should be pull the code and prepare a build
 
+Linux Story:
+----------------------------------------
+Linux ia an Open Source Operating System Modelled On Unix And Developed in C Language.
 
-
-
-
-
-
-
-
-Linux Story:Linux ia an Open Source Operating System Modelled On Unix And Developed in C Language.
 Open Source:A) A Software Becomes open Source if Its Source Code is freely Available.
+
 B) Tge Free Sofware movment was Started in 1983 And 1998.Some Developers Coined the term "Open-Source" to make it less ambigues
+
 C) Open Source Projects are generally a collaborative effort by multiple sets of develpers to enhance the Productsand allow others to get benefits of it.
 
-Features of Linux
+Features of Linux:
+-------------------------
 A) Linux is Open Source
 B) Significantly reduces the Monitary cost
 C)Huge Base if Developers that freely provide support
 D)it is Reliable as it runs smoothly and no need to reboot it Repeatedly
-E) Licensing freedom to re-Use
+E) Licensing freedom to re-Use and re-publishthe code 
+can be customised if you want to change your systems look
+New enhancements happening and updates come 
+
+
+
 
 
 Date-09/11/22
