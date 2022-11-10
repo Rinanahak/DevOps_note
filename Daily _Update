@@ -42,4 +42,87 @@ A) Linux is Open Source
 B) Significantly reduces the Monitary cost
 C)Huge Base if Developers that freely provide support
 D)it is Reliable as it runs smoothly and no need to reboot it Repeatedly
-E) Licensing freedom to re-Use and
+E) Licensing freedom to re-Use
+
+
+Date-09/11/22
+
+Shell Scripting:
+
+Shell Scripting is a series of shell  commands arranged in a text file to be executed one after the other.
+
+similar to batch file in windows
+Helps to automate asequence of task creating and also saves time.
+Can be created using any normal text editor.
+compiled like C/CPP progran,but are Interpreted  ditectly
+Each shell script must have executable permission to runthe scrips.
+ 
+ Creating a shell Script:
+ 
+ ------------------------------------
+ 
+ To Get into the root for Excute sudo-i
+ Create a text file and add the extension of the shell # vi script.sh
+ Enter some commands in the scripts to be executed echo "My first script echo $ (date)
+ Change the permission of the script ,give it executeable permission and may also give read and execute permission for others users #chmod 755 scripts .sh
+ Run the scripts 
+ #./Scripts.sh
+ # bash scripts .sh
+ 
+ Creating a shell scripts:
+ 
+ sudo-i
+ # vi script.sh
+ echo "My First scripts echo $ (date)
+ #chmod 755 scripts
+  #./Scripts.sh
+ # bash scripts .sh
+ 
+ Practical user of shell scripting:
+ --------------------------------------
+ 
+ data backup at regular interval of interval of time in the background
+ To find out the number of users and their details
+ Find details about various process and sorting them based on CPU usage ,runtime ,memory usage,users etc.
+ To append each file with a signature ,date etc.
+ For Schedulling tasks to be done at networks servers.
+ creating new users by provding permission just by entering users.
+ 
+ 
+ User Interface In Linux:
+ -------------------------------
+ 
+ Users interface is a visual part of opertaing system through which a user interactsw with a computer or a software
+ 
+ Command line interface (CLI)
+ 
+ Command line interface give commands in the form of lines of text to the program.
+ The program which handle it is called a command language interpreter.
+ 
+ User Interface in Linux:
+ -----------------------------
+ 
+ garphical user interface interacts with users with icons ,folders,wallpapers,widgets and visual indicates to make it easier for the user to access the program.
+ 
+ For Linux,destop environment are KDF,GNOME,CINNAMON,MATE etc.
+      .  Command line Interface( CLI)
+      . Graphical user Interface ( GUI)   
+      
+      $ Cal --help or man
+      ls -a 
+      ls -r    -its showing reverse order
+      ls -f-its showing alphabatic order files/name/template/picture
+      ll-Long listing file-including hiding file.
+      
+      
+      
+      
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
