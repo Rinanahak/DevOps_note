@@ -125,14 +125,35 @@ Each shell script must have executable permission to runthe scrips.
       ls -a 
       ls -r    -its showing reverse order
       ls -f-its showing alphabatic order files/name/template/picture
-      ll-Long listing file-including hiding file.
+      ll-Long listing file-including hiding fil
       
       
       
       
+Date: 10/11/22
 
+What is the different btween apt and apt-get
+what is apt:
 
+apt Command in Linux. apt is a command-line utility for installing, updating, removing, and otherwise managing deb packages on Ubuntu, Debian, and related Linux distributions
+ apt-get:
+ ..............................
+apt-get is a command line tool for interacting with the Advanced Package Tool (APT) library (a package management system for Linux distributions). It allows you to search for, install, manage, update, and remove software.
+
+ The apt-get command is a full-featured but simplified interface to dpkg , and apt is a more user-friendly but slightly stripped-back version of apt-get .
  
+ Control+d-denied next line.
+ cat >file.txt- it is use to edit the file.
+cat file.txt -n-to view the output if the file with number.
+cat >>file.txt-to update the data in current file .
+touch-to create the file.
+vi-o work on the VI text editor, you have to know how to use the VI editor
+Vim-Vim is an advanced and highly configurable text editor built to enable efficient text editing.
+tail-he tail command displays the last part (10 lines by default) of one or more files or piped data.
+tail/head /less/more-all are file manipulation.
+wc-word count
+
+
  
  
  
