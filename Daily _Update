@@ -143,7 +143,7 @@ apt-get is a command line tool for interacting with the Advanced Package Tool (A
  The apt-get command is a full-featured but simplified interface to dpkg , and apt is a more user-friendly but slightly stripped-back version of apt-get .
  
  Control+d-denied next line.
- cat >file.txt- it is use to edit the file.
+cat >file.txt- it is use to edit the file.
 cat file.txt -n-to view the output if the file with number.
 cat >>file.txt-to update the data in current file .
 touch-to create the file.
@@ -152,8 +152,17 @@ Vim-Vim is an advanced and highly configurable text editor built to enable effic
 tail-he tail command displays the last part (10 lines by default) of one or more files or piped data.
 tail/head /less/more-all are file manipulation.
 wc-word count
+wq! -quit with save .
+If you made some changes and would like to keep them, type :wq and press Enter / return. If you made some changes and would rather discard them, type :q! and press Enter / return.
+
+q to quit (short for :quit) 
+q! to quit without saving (short for :quit!) 
+wq to write and quit 
+du-directories usage-short for disk usage, is used to estimate file space usage
+controlx-quit from the editor.
 
 
+ 
  
  
  
